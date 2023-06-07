@@ -60,7 +60,7 @@ These are things that only we would know:
  WANT ANOTHER GAYMING SITE???
  
  I have another site that I had made. This site is where I have gotten all the links from. I have posted the site URL below:
- https://sites.google.com/view/dontletyourteachersseethis/green-sussy-chat-kid
+ https://sites.google.com/view/dontletyourteachersseethis/home
  
  This site you can share with as much as people as possible! Enjoy!
  
