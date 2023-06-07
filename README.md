@@ -1,12 +1,16 @@
 # Gayming
 Litsen, IF YOU GET INTO TROUBLE BY USING OUR SITE, DO NOT EVEN THINK OF BLAMING US. IT IS COMPLETLEY YOUR FAULT AND YOUR FAULT ONLY.
 
+----------------------------------------------------------------------------
+
 Instructions:
  - Don't let any of your teachers see this
  - Do not sent any of the sites we make to anyone
  - Well acctually don't follow the pervious rule
  - Don't send any of our sites on gmail 
  - Dont't bookmark ANY of our sites
+
+----------------------------------------------------------------------------
  
  How to use:
   #1 Fork this repository
@@ -15,4 +19,46 @@ Instructions:
   #4 Click the "Branch Section" then click "main" or "master"
   #5 Click "Save"
   #6 Wait for about 5 minutes for the site to be created.
+  
+  ----------------------------------------------------------------------------
  
+Credits
+ - Eclypse
+ - riqqa
+----------------------------------------------------------------------------
+
+Remember, this was all done with html code. Anyone who wants to collaborate should email us or post an issue saying that I want to help and we will let you collaborate right away after a short coding quiz the other creaters and I will conduct. If you have any questions or anything you feel like wanting to add, feel free to email me at twistedempire6@gmail.com. 
+
+----------------------------------------------------------------------------
+
+riqqa and I are both begginer coders. We can say this because as of 6/7/23 we had started trying to learn coding on the 5th. That means we have had 2 days to learn a lot of stuff. There may be simple coding errors. If you find any, post them is the "Issues" tab. I have done most of the coding myself. I have made this site during school so if any teacher, and that I mean literally any adult in the building, see's me, I am in serious trouble because coding for unnececary purposes is forbidden in our school.
+
+----------------------------------------------------------------------------
+
+How to verify you are talking to the REAL authors of the site:
+These are things that only we would know:
+ - Both of the collaborators are twins
+ - We go to school in Virginia
+ - We grind videogames 
+ - I (Eclypse) is VERY popular
+ - I am bisexual
+ 
+ 
+ ----------------------------------------------------------------------------
+ 
+ This was written by Eclypse
+ 
+ Remainder, hosting a site like this is a lot of work so please star this repository!
+
+
+
+
+
+
+
+
+
+
+
+
+
