@@ -66,6 +66,13 @@ These are things that only we would know:
  
  ----------------------------------------------------------------------------
  
+ YOU WANT CHAT GPT 3-4??
+ 
+ The link for Chat GPT is below:
+ https://openchat.so/chat/W8f0kJqcWxF60s2FWJDL
+ 
+ ----------------------------------------------------------------------------
+ 
  CONTACT INFORMATION:
  
  If you have any questions and want an immediate response, go to chat.google.com and send me a direct message at twistedempire6@gmail.com. I am always on Google Chat so I will respond immediatly.
