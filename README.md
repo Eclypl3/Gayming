@@ -60,7 +60,7 @@ These are things that only we would know:
  WANT ANOTHER GAYMING SITE???
  
  I have another site that I had made. This site is where I have gotten all the links from. I have posted the site URL below:
- <a href="https://sites.google.com/view/dontletyourteachersseethis/home"></a>
+ https://sites.google.com/view/dontletyourteachersseethis/home
  
  This site you can share with as much as people as possible! Enjoy!
  
@@ -69,7 +69,7 @@ These are things that only we would know:
  YOU WANT CHAT GPT 3-4??
  
  The link for Chat GPT is below:
- <a href="https://openchat.so/chat/W8f0kJqcWxF60s2FWJDL"></a>
+ https://openchat.so/chat/W8f0kJqcWxF60s2FWJDL
  
  ----------------------------------------------------------------------------
  
